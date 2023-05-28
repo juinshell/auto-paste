@@ -1,5 +1,6 @@
 # auto-paste
 A simple python script to automatically abstract->paste->empty the contents of your clipboard.
+After 3 seconds when testing your clipboard has changed, the script will automatically paste the contents of your clipboard and empty it.
 
 ## quick start
 1. Clone the repo
